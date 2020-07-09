@@ -1,0 +1,1 @@
+Error: error on parsing arguments: wordlist file "/tmp/list.lst" does not exist: stat /tmp/list.lst: no such file or directory
